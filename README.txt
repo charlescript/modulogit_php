@@ -1,2 +1,1 @@
-Relembrando a usabilidade do GIT
-alteração efetuada no branch master
+Relembrando a usabilidade do GIT (alterado e atualizado)
